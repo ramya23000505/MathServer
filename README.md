@@ -99,6 +99,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
+```
 Views.py
 from django.shortcuts import render
 def surfacearea(request):
@@ -136,6 +137,7 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
+
 ![Screenshot 2024-04-18 112609](https://github.com/ramya23000505/MathServer/assets/149370791/1caefe7f-9054-4f52-be29-0234af0e3b81)
 
 ## RESULT:
